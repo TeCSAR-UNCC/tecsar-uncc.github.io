@@ -1,10 +1,10 @@
 main:
   - title: "Home"
     url: /
+  - title: "Datasets"
+    url: /datasets/
   - title: "Projects"
     url: /projects/
-  - title: "Publications"
-    url: /publications/
   - title: "Team"
     url: /team/
   - title: "Contact"
