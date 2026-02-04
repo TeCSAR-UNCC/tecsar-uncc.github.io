@@ -1,5 +1,3 @@
-
-```yml
 theme: jekyll-theme-cayman
 title: TeCSAR-RetailS
-description: Retail store dataset for ________
+description: A real-world retail store dataset for video anomaly detection
